@@ -1,0 +1,5 @@
+setuptools
+gurux-dlms
+gurux_serial
+gurux_net
+gurux_common
